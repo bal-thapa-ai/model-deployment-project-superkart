@@ -47,6 +47,5 @@ SuperKart/
 │── requirements.txt     # Dependencies
 │── Dockerfile           # Containerization
 │── README.md            # Documentation
-```plaintext
----
+
 
