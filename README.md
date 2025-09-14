@@ -41,6 +41,7 @@ SuperKart/
 │── Dockerfile           # Containerization
 │── README.md            # Documentation
 
+---
 
 ## 🌟 Highlights
 - End-to-end pipeline: From raw data → ML model → cloud deployment.
