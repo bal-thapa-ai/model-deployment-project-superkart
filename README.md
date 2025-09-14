@@ -30,6 +30,13 @@ SuperKart is a machine learning project designed to **forecast supermarket sales
 
 ---
 
+## 🌟 Highlights
+- End-to-end pipeline: From raw data → ML model → cloud deployment.
+- MLOps best practices: Train–serve parity, serialized pipelines, containerization.
+- Deployment ready: Easily extensible to cloud platforms (Hugging Face, Render, Azure).
+
+---
+
 ## 📂 Repository Structure  
 ```plaintext
 SuperKart/
@@ -40,10 +47,6 @@ SuperKart/
 │── requirements.txt     # Dependencies
 │── Dockerfile           # Containerization
 │── README.md            # Documentation
-
+```plaintext
 ---
 
-## 🌟 Highlights
-- End-to-end pipeline: From raw data → ML model → cloud deployment.
-- MLOps best practices: Train–serve parity, serialized pipelines, containerization.
-- Deployment ready: Easily extensible to cloud platforms (Hugging Face, Render, Azure).
